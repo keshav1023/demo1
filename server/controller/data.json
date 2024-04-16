@@ -1,0 +1,25 @@
+{
+    "a":{
+
+    },
+    "rangeDetails":{
+        "identifier":{
+
+        },
+        "range":[
+            {
+                "lowervalue":"987654",
+                "uppervalue":"876549"
+            },
+            {
+                "lowervalue":"987654",
+                "uppervalue":"876549"
+            },
+            {
+                "lowervalue":"987654",
+                "uppervalue":"876549"
+            }
+        ]
+    }
+
+}
